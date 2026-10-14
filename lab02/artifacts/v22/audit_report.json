@@ -1,0 +1,32 @@
+[
+  {
+    "rule": "R2",
+    "severity": "error",
+    "item": "item06",
+    "message": "идентификатор «CC BY 4» отсутствует в каталоге SPDX учебной работы"
+  },
+  {
+    "rule": "R2",
+    "severity": "error",
+    "item": "item07",
+    "message": "идентификатор «free-to-use» отсутствует в каталоге SPDX учебной работы"
+  },
+  {
+    "rule": "R10",
+    "severity": "warning",
+    "item": "item09",
+    "message": "не указан правообладатель"
+  },
+  {
+    "rule": "R2",
+    "severity": "error",
+    "item": "item10",
+    "message": "идентификатор «Public domain» отсутствует в каталоге SPDX учебной работы"
+  },
+  {
+    "rule": "R1",
+    "severity": "error",
+    "item": "item11",
+    "message": "лицензия не указана"
+  }
+]
