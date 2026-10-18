@@ -34,6 +34,9 @@
 ├── lab03/
 │   ├── demo_journal/
 │   └── src/
+├── lab04/
+│   ├── demo_journal/
+│   └── src/
 └── README.md
 ```
 
