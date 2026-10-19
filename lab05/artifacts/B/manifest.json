@@ -1,0 +1,13 @@
+{
+  "model_id": "stabilityai/sd-turbo",
+  "revision": "b261bac6fd2cf515557d5d0707481eafa0485ec2",
+  "prompt": "visual for an ecology lecture series, stylized forest canopy seen from above, layered green shapes, soft morning light, no text, no people",
+  "seed": 1022,
+  "steps": 1,
+  "guidance_scale": 0.0,
+  "size": 512,
+  "generator_device": "cpu",
+  "dtype": "float32",
+  "device": "Tesla T4",
+  "sha256": "83401c691122b3b3178cbb9b3e2f2516ab8da406510cd9327bd5d53930dbd081"
+}
