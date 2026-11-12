@@ -270,9 +270,7 @@ https://huggingface.co/stabilityai/sd-turbo
 
 ### 10.2. Ссылки на материалы
 
-**Блокнот Google Colab:** [вставить ссылку]
-
-**Репозиторий или каталог с файлами:** [вставить ссылку]
+**Блокнот Google Colab:** https://colab.research.google.com/drive/1IgGWp0GA7W4zkW3lzAGdnPA1adJopvy4
 
 ## 11. Итоговый вывод
 
